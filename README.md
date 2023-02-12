@@ -25,6 +25,7 @@ customer
 the trip with the customer
 15. Designation: Designation of the customer in the current organization
 16. MonthlyIncome: Gross monthly income of the customer
+
 Customer interaction data:
 1. PitchSatisfactionScore: Sales pitch satisfaction score
 2. ProductPitched: Product pitched by the salesperson
